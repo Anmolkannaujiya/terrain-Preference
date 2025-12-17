@@ -1,0 +1,176 @@
+Timestamp,Name,Age,Gender,Region ,How many times do you travel per year?,  Usual travel companion  ,"Typical travel budget per trip 
+",How long do your trips usually last? ,Do you prefer warm or cold weather?,How much do you enjoy water bodies,"How much do you enjoy high-altitude places (hills, mountains? ",Which activities do you enjoy while travelling?,  Adventure-seeking level (1–5)  , What type of place did you last visit?  ,  What do you primarily prefer while traveling?  
+12/12/2025 14:36:10,Rohit,20,Male,North India,2-3,Family,Medium,4–7 days,Cold,3,3,"Sunbathing, Photography, Cultural Visits",4,Plains,Hills
+12/12/2025 14:45:59,Srinivas ,20,Male,North India,4-7,Solo,Medium,4–7 days,Cold,5,5,"Photography, Cultural Visits, Adventure Sports, Wildlife Exploration, Camping, Boating",5,Hills,Hills
+12/12/2025 14:48:34,shalvi gour,21,Female,North India,1,Family,Medium,4–7 days,Cold,3,4,"Photography, Cultural Visits, Wildlife Exploration, Camping, Boating",5,Hills,Hills
+12/12/2025 14:49:37,saksham dubey,22,Female,North India,2-3,Friends,Low,1–3 days,Cold,3,3,"Sunbathing, Cultural Visits, Adventure Sports, Camping, Boating",3,Hills,Hills
+12/12/2025 14:50:24,arnav gour,15,Male,North India,1,Family,Medium,4–7 days,Warm,4,3,"Cultural Visits, Adventure Sports, Wildlife Exploration, Camping, Boating",3,Hills,Hills
+12/12/2025 14:52:02,Khushi Singh Jadon,21,Female,North India,2-3,Family,Medium,4–7 days,Cold,4,4,"Photography, Cultural Visits, Adventure Sports, Wildlife Exploration, Camping",5,Hills,Hills
+12/12/2025 14:53:24,Jhanvi Goyal,21,Female,Northeast India,2-3,Family,Medium,4–7 days,Cold,4,3,"Sunbathing, Photography, Adventure Sports, Wildlife Exploration, Camping",4,Beaches,Beaches
+12/12/2025 14:56:37,Shivadan Dogra ,22,Male,North India,2-3,Family,High,4–7 days,Cold,4,5,Photography,3,Hills,Hills
+12/12/2025 14:58:57,Masineedi Lokesh ,20,Male,South India,1,Friends,Medium,1–3 days,Cold,4,4,Wildlife Exploration,4,City,Beaches
+12/12/2025 15:01:43,Tanishq Girare,20,Male,North India,1,Friends,Low,1–3 days,Warm,3,3,"Sunbathing, Photography, Cultural Visits, Adventure Sports, Wildlife Exploration, Camping, Boating",3,Hills,Hills
+12/12/2025 15:02:52,Shivam ,20,Male,North India,2-3,Solo,Low,4–7 days,Warm,5,5,"Sunbathing, Photography, Cultural Visits, Adventure Sports, Wildlife Exploration, Camping, Boating",5,Hills,Hills
+12/12/2025 15:03:04,Akash,20,Male,Northeast India,2-3,Family,Medium,4–7 days,Cold,5,4,"Cultural Visits, Wildlife Exploration, Boating",5,Hills,Hills
+12/12/2025 15:04:05,Manne kesava ,20,Male,South India,2-3,Family,Medium,1–3 days,Cold,5,5,"Photography, Adventure Sports",5,Beaches,Beaches
+12/12/2025 15:04:29,Ishita,20,Female,North India,2-3,Family,Medium,4–7 days,Cold,3,5,"Photography, Cultural Visits, Wildlife Exploration, Camping, Boating",3,Plains,Hills
+12/12/2025 15:04:33,Nidhi ,20,Female,North India,2-3,Family,Medium,4–7 days,Cold,5,5,"Photography, Cultural Visits",5,Hills,Hills
+12/12/2025 15:05:50,Shreya ,19,Female,North India,2-3,Friends,Medium,4–7 days,Warm,3,3,"Adventure Sports, Wildlife Exploration",4,Plains,Hills
+12/12/2025 15:06:34,Balaji ,19,Male,South India,2-3,Solo,Medium,4–7 days,Warm,4,3,Cultural Visits,3,Hills,Beaches
+12/12/2025 15:06:34,Anushka,21,Female,West India,1,Group,High,8–14 days,Cold,5,5,"Camping, Boating",5,City,Plains
+12/12/2025 15:07:40,Shubham,24,Male,West India,7+,Friends,Low,4–7 days,Cold,5,4,"Photography, Cultural Visits, Adventure Sports, Wildlife Exploration",5,Beaches,Hills
+12/12/2025 15:08:38,Amit,22,Male,North India,2-3,Family,Medium,1–3 days,Warm,4,4,"Photography, Cultural Visits",3,Plains,Plains
+12/12/2025 15:09:26,Shrii,23,Male,South India,1,Partner,Medium,4–7 days,Warm,4,4,Wildlife Exploration,4,Beaches,Beaches
+12/12/2025 15:11:42,Nitesh ,20,Male,West India,4-7,Partner,High,8–14 days,Cold,5,5,"Photography, Adventure Sports, Wildlife Exploration",4,Hills,Hills
+12/12/2025 17:03:28,Ayush Sahu,21,Male,North India,2-3,Friends,Low,1–3 days,Cold,4,4,"Photography, Cultural Visits, Wildlife Exploration, Camping, Boating",5,Hills,Hills
+12/12/2025 17:05:01,SURAJ KUMAR YADAV ,19,Male,South India,2-3,Partner,High,8–14 days,Cold,3,3,Camping,4,City,Hills
+12/12/2025 17:06:04,Arkdeep singh,20,Male,North India,2-3,Friends,High,15+ days,Cold,3,3,Adventure Sports,3,Beaches,Hills
+12/12/2025 17:06:40,Aryan raj,21,Male,North India,2-3,Solo,Low,1–3 days,Warm,3,3,"Cultural Visits, Wildlife Exploration",2,City,Plains
+12/12/2025 17:08:01,varun Jamwal,20,Male,North India,2-3,Solo,Medium,4–7 days,Cold,5,5,"Photography, Adventure Sports, Wildlife Exploration, Camping, Boating",5,Hills,Hills
+12/12/2025 17:08:32,Shivam ,22,Male,Northeast India,1,Friends,High,4–7 days,Cold,4,4,"Sunbathing, Photography, Cultural Visits, Adventure Sports",4,Hills,Hills
+12/12/2025 17:13:28,S.Harsha,17,Female,South India,2-3,Family,Medium,4–7 days,Cold,2,1,Photography,3,Beaches,Hills
+12/12/2025 17:13:57,Sana,20,Female,North India,2-3,Family,Medium,1–3 days,Cold,4,5,"Photography, Wildlife Exploration, Camping, Boating",4,Hills,Hills
+12/12/2025 17:14:31,Md Shakib ,19,Male,South India,1,Friends,Low,1–3 days,Cold,3,4,"Photography, Cultural Visits",4,City,Hills
+12/12/2025 17:15:05,Ishaan sharma,20,Male,North India,7+,Solo,Medium,15+ days,Warm,4,3,"Cultural Visits, Adventure Sports, Boating",5,City,Hills
+12/12/2025 17:15:18,Shreya ,18,Female,North India,2-3,Family,Medium,4–7 days,Cold,3,2,"Photography, Camping",2,Hills,Hills
+12/12/2025 17:15:20,ABCD,19,Female,North India,2-3,Family,Medium,1–3 days,Cold,5,5,"Sunbathing, Photography, Adventure Sports",2,City,Beaches
+12/12/2025 17:17:45,Harshit Singh ,22,Male,North India,1,Solo,Low,1–3 days,Warm,2,3,Photography,2,City,Hills
+12/12/2025 17:18:23,Siddhartha bharti ,21,Male,North India,2-3,Friends,Medium,4–7 days,Warm,3,4,Photography,4,City,Hills
+12/12/2025 17:19:55,AARYAN S MANOJ,21,Male,South India,2-3,Friends,Medium,4–7 days,Warm,5,3,Photography,4,City,Beaches
+12/12/2025 17:21:07,Nitesh,21,Male,North India,4-7,Friends,Medium,4–7 days,Warm,4,4,Adventure Sports,4,Hills,Hills
+12/12/2025 17:21:24,Sarthak Kumar,19,Male,Northeast India,2-3,Solo,Low,1–3 days,Warm,5,1,"Cultural Visits, Adventure Sports, Boating",1,City,Plains
+12/12/2025 17:21:45,Malyala Suchith,18,Male,South India,2-3,Family,High,8–14 days,Cold,5,5,"Photography, Wildlife Exploration, Boating",5,City,Hills
+12/12/2025 17:21:54,Suhas,18,Male,South India,2-3,Group,Low,4–7 days,Cold,3,4,"Photography, Cultural Visits",3,Hills,Plains
+12/12/2025 17:22:12,Sana,20,Female,North India,1,Friends,Low,1–3 days,Cold,3,3,Sunbathing,3,Beaches,Hills
+12/12/2025 17:22:13,Sanampreet kaur ,18,Female,North India,0,Solo,Low,1–3 days,Cold,3,3,Camping,3,City,Hills
+12/12/2025 17:22:15,Rakendhu ss,20,Female,South India,4-7,Friends,Medium,1–3 days,Warm,5,4,"Cultural Visits, Wildlife Exploration",4,Hills,Hills
+12/12/2025 17:23:34,Suha,18,Female,Northeast India,2-3,Family,Medium,8–14 days,Warm,3,4,Cultural Visits,4,City,Hills
+12/12/2025 17:23:39,Dhairya Ghai ,18,Male,North India,2-3,Family,Low,1–3 days,Cold,4,5,Photography,5,Hills,Hills
+12/12/2025 17:23:50,Ekta,18,Female,North India,2-3,Family,Medium,8–14 days,Warm,4,4,"Sunbathing, Photography, Cultural Visits, Adventure Sports, Wildlife Exploration, Camping, Boating",5,Plains,Hills
+12/12/2025 17:23:52,Priya Ranjan ,20,Female,North India,1,Family,Medium,15+ days,Warm,5,5,Photography,5,Beaches,Beaches
+12/12/2025 17:23:59,Ashmit ,18,Male,South India,4-7,Solo,Medium,8–14 days,Cold,5,5,"Adventure Sports, Camping",5,Hills,Hills
+12/12/2025 17:24:53,Abhinav ,17,Male,South India,1,Solo,High,8–14 days,Cold,5,3,"Sunbathing, Photography, Cultural Visits, Adventure Sports, Wildlife Exploration, Camping, Boating",3,Hills,Beaches
+12/12/2025 17:25:25,Ayisha minha,18,Female,South India,4-7,Group,High,4–7 days,Cold,4,5,Cultural Visits,5,Hills,Hills
+12/12/2025 17:26:09,Devarsh,18,Male,South India,7+,Prefer not to say,Medium,1–3 days,Cold,5,5,"Photography, Cultural Visits, Adventure Sports, Wildlife Exploration, Camping, Boating",5,Hills,Beaches
+12/12/2025 17:28:45,Aman Agarwal ,21,Male,West India,2-3,Family,Low,1–3 days,Cold,5,5,Cultural Visits,5,City,Plains
+12/12/2025 17:30:02,Hargovind ,22,Male,North India,1,Solo,Medium,4–7 days,Cold,4,4,"Cultural Visits, Adventure Sports, Camping, Boating",4,Hills,Hills
+12/12/2025 17:31:25,T. Surya Teja,21,Male,South India,1,Solo,Medium,1–3 days,Cold,5,5,"Photography, Wildlife Exploration, Camping",5,Hills,Beaches
+12/12/2025 17:31:44,Sravan ,24,Male,South India,2-3,Solo,Medium,8–14 days,Cold,5,5,"Photography, Cultural Visits, Camping",4,Hills,Hills
+12/12/2025 17:33:04,Adisankar,18,Male,South India,4-7,Prefer not to say,Medium,15+ days,Warm,4,5,Wildlife Exploration,5,Hills,Hills
+12/12/2025 17:33:17,Angelica Araina ,17,Female,South India,4-7,Prefer not to say,Medium,15+ days,Warm,4,5,"Photography, Cultural Visits, Wildlife Exploration, Camping",5,Hills,Hills
+12/12/2025 17:33:39,Bharath R ,18,Male,South India,2-3,Family,Medium,1–3 days,Warm,5,5,Cultural Visits,5,Hills,Hills
+12/12/2025 17:33:41,EC Aiswarya,18,Female,South India,7+,Family,Medium,4–7 days,Cold,5,5,Cultural Visits,5,City,Plains
+12/12/2025 17:34:04,Rashi,19,Female,North India,2-3,Solo,Medium,4–7 days,Cold,3,4,Cultural Visits,4,City,Hills
+12/12/2025 17:34:16,Aditi,19,Female,North India,4-7,Solo,Medium,1–3 days,Cold,2,5,"Sunbathing, Photography, Cultural Visits, Adventure Sports, Wildlife Exploration, Camping, Boating",4,Hills,Hills
+12/12/2025 17:35:11,Paari Mannan M,18,Male,South India,2-3,Friends,Medium,1–3 days,Warm,3,4,"Photography, Wildlife Exploration",5,City,Plains
+12/12/2025 17:36:15,Parv Aggarwal,20,Male,North India,2-3,Family,Medium,1–3 days,Cold,1,5,Cultural Visits,5,Hills,Hills
+12/12/2025 17:36:30,Nidhi,19,Female,North India,2-3,Family,Medium,4–7 days,Warm,3,4,Photography,4,Beaches,Hills
+12/12/2025 17:36:57,Priyansh,18,Male,West India,2-3,Partner,Medium,1–3 days,Warm,5,4,"Cultural Visits, Boating",5,Hills,Plains
+12/12/2025 17:38:41,Jaswanth,19,Male,South India,2-3,Family,Medium,4–7 days,Cold,4,5,Photography,5,City,Hills
+12/12/2025 17:38:45,Pranay ,23,Male,North India,2-3,Friends,Medium,4–7 days,Cold,4,2,"Sunbathing, Photography, Adventure Sports, Camping, Boating",3,Plains,Hills
+12/12/2025 17:39:13,Funsuk wangdu,35,Male,Nepal,7+,Prefer not to say,High,15+ days,Cold,5,4,Photography,3,Hills,Plains
+12/12/2025 17:39:19,Aditya Jaswal,21,Male,North India,2-3,Friends,Medium,4–7 days,Cold,3,4,"Photography, Cultural Visits, Wildlife Exploration",4,Hills,Hills
+12/12/2025 17:39:37,Thanaymadhav ,18,Male,South India,1,Friends,Medium,4–7 days,Warm,5,5,"Sunbathing, Photography, Cultural Visits, Adventure Sports, Wildlife Exploration, Camping, Boating",5,Hills,Beaches
+12/12/2025 17:40:14,Arshiya ,22,Female,North India,4-7,Family,Medium,4–7 days,Warm,2,5,"Sunbathing, Photography, Cultural Visits, Adventure Sports, Camping",5,Hills,Hills
+12/12/2025 17:41:36,Prithvi ,18,Male,North India,2-3,Solo,High,4–7 days,Cold,4,5,Camping,5,City,Hills
+12/12/2025 17:41:55,Khush,21,Female,North India,2-3,Prefer not to say,Medium,4–7 days,Cold,5,5,"Sunbathing, Photography, Cultural Visits, Adventure Sports, Wildlife Exploration, Camping, Boating",5,Hills,Hills
+12/12/2025 17:41:57,Anagha bp,17,Female,South India,4-7,Friends,Low,4–7 days,Cold,5,5,"Sunbathing, Photography, Adventure Sports, Wildlife Exploration, Camping, Boating",5,Hills,Beaches
+12/12/2025 17:42:06,Saksham ,19,Male,North India,2-3,Friends,Medium,4–7 days,Cold,3,3,"Sunbathing, Photography, Cultural Visits, Adventure Sports, Wildlife Exploration, Camping, Boating",4,Hills,Hills
+12/12/2025 17:42:54,Wani Berjees,20,Female,North India,4-7,Solo,High,8–14 days,Warm,4,5,"Photography, Camping",4,Hills,Hills
+12/12/2025 17:44:20,Aeshleen,18,Female,North India,0,Prefer not to say,Low,1–3 days,Warm,1,1,Photography,1,City,Hills
+12/12/2025 17:45:39,Shreyan,19,Male,South India,2-3,Partner,Medium,1–3 days,Cold,4,5,"Photography, Cultural Visits, Adventure Sports, Wildlife Exploration, Camping",5,Hills,Hills
+12/12/2025 17:45:48,Shannon,19,Male,South India,4-7,Solo,Medium,4–7 days,Cold,5,5,"Sunbathing, Photography, Cultural Visits, Adventure Sports, Wildlife Exploration, Camping, Boating",5,Hills,Hills
+12/12/2025 18:00:11,Hemanth kumar,25,Male,West India,0,Prefer not to say,High,1–3 days,Cold,1,5,Camping,5,Beaches,Hills
+12/12/2025 22:07:34,Suraksha,21,Female,Northeast India,1,Partner,Medium,4–7 days,Warm,5,5,Photography,4,Hills,Beaches
+12/12/2025 22:07:37,Manjeet,21,Female,North India,1,Family,Low,1–3 days,Warm,1,3,"Sunbathing, Photography, Cultural Visits, Adventure Sports, Wildlife Exploration, Camping",5,Plains,Plains
+12/12/2025 22:14:06,Pushpendra Singh,21,Male,North India,2-3,Solo,Low,1–3 days,Cold,5,4,"Sunbathing, Photography, Cultural Visits, Adventure Sports, Wildlife Exploration, Camping, Boating",5,Plains,Beaches
+12/12/2025 22:26:44,Deepti,20,Female,North India,2-3,Friends,Medium,4–7 days,Warm,5,5,"Sunbathing, Photography, Cultural Visits, Adventure Sports, Wildlife Exploration, Camping, Boating",5,Hills,Hills
+12/12/2025 22:44:01,Sneha Srivastava ,20,Female,North India,1,Prefer not to say,Low,1–3 days,Cold,4,5,"Photography, Cultural Visits",4,Beaches,Hills
+12/12/2025 22:47:52,Ansh kumar shaw,21,Male,North India,2-3,Solo,Low,1–3 days,Warm,2,2,Sunbathing,2,Hills,Beaches
+12/12/2025 22:49:12,Satyam kumar shrivastava,25,Male,North India,7+,Solo,High,15+ days,Cold,5,5,"Photography, Cultural Visits, Adventure Sports",5,Beaches,Beaches
+12/12/2025 22:51:17,Tiya,19,Female,North India,1,Friends,Medium,1–3 days,Cold,2,5,"Photography, Cultural Visits, Camping",4,Beaches,Hills
+12/12/2025 22:52:06,Zayed khan,20,Male,North India,0,Prefer not to say,Medium,4–7 days,Warm,5,5,"Photography, Adventure Sports, Wildlife Exploration",5,City,Beaches
+12/12/2025 22:53:30,Vivek Maliwal,21,Male,North India,2-3,Solo,Medium,1–3 days,Cold,3,5,"Photography, Wildlife Exploration, Camping",5,Hills,Hills
+12/12/2025 22:53:37,Lakshya chaturvedi,22,Male,North India,7+,Solo,Medium,1–3 days,Cold,3,5,"Photography, Wildlife Exploration, Camping",5,Hills,Hills
+12/12/2025 22:54:01,Siya,20,Female,North India,4-7,Family,Medium,4–7 days,Cold,4,4,Wildlife Exploration,4,Hills,Hills
+12/12/2025 22:54:33,Sagar,19,Male,North India,7+,Friends,High,15+ days,Cold,5,5,"Adventure Sports, Wildlife Exploration, Camping",5,Hills,Beaches
+12/12/2025 22:55:29,Arshita Thakur ,19,Female,North India,1,Family,Medium,4–7 days,Cold,4,5,"Photography, Adventure Sports, Camping",4,Hills,Hills
+12/12/2025 22:55:35,Tanupriya ,1000000,Female,North India,2-3,Family,Medium,4–7 days,Warm,5,5,"Photography, Adventure Sports, Wildlife Exploration",5,Beaches,Hills
+12/12/2025 22:56:45,Prince Yadav ,18,Male,Northeast India,0,Solo,Low,1–3 days,Warm,1,1,"Photography, Cultural Visits, Adventure Sports",4,City,Plains
+12/12/2025 22:57:05,Abhay,18,Male,North India,1,Friends,Medium,1–3 days,Cold,3,5,"Photography, Wildlife Exploration, Boating",4,Beaches,Hills
+12/12/2025 22:57:07,Sarthak Singh,20,Male,North India,1,Friends,High,8–14 days,Cold,5,4,Wildlife Exploration,4,Hills,Hills
+12/12/2025 22:58:06,Shambhavi singh,19,Female,North India,2-3,Family,Medium,1–3 days,Warm,4,5,"Photography, Cultural Visits, Adventure Sports",5,City,Hills
+12/12/2025 22:59:31,Siddhi Kumari ,19,Female,North India,1,Friends,Low,1–3 days,Cold,5,5,"Adventure Sports, Wildlife Exploration, Camping",4,City,Hills
+12/12/2025 23:01:39,Amita Ghosh ,19,Female,West India,2-3,Solo,Medium,1–3 days,Cold,5,5,Camping,5,City,Hills
+12/12/2025 23:03:26,Nikhil,18,Male,South India,4-7,Family,Low,15+ days,Warm,5,2,"Adventure Sports, Camping, Boating",1,Hills,Hills
+12/12/2025 23:03:46,Bboomi,20,Female,North India,1,Family,High,4–7 days,Cold,2,4,"Adventure Sports, Camping, Boating",5,Hills,Hills
+12/12/2025 23:05:26,Dama Sri Ram ,19,Male,South India,2-3,Friends,High,4–7 days,Cold,5,5,"Sunbathing, Adventure Sports, Wildlife Exploration",5,City,Plains
+12/12/2025 23:05:31,Prajithaa,18,Female,South India,1,Friends,Low,4–7 days,Warm,4,4,"Cultural Visits, Adventure Sports, Camping",5,Plains,Beaches
+12/12/2025 23:06:15,Aditi Tiwari ,18,Female,West India,2-3,Friends,Medium,8–14 days,Warm,3,4,Cultural Visits,3,Plains,Hills
+12/12/2025 23:07:30,Vamesh Sharma ,17,Male,North India,0,Friends,Low,1–3 days,Cold,1,4,"Adventure Sports, Wildlife Exploration, Camping",5,Hills,Hills
+12/12/2025 23:08:52,Kapillohan ,18,Male,Northeast India,1,Partner,Medium,4–7 days,Warm,3,1,Adventure Sports,3,Beaches,Hills
+12/12/2025 23:09:29,Nookesh mummana ,18,Male,South India,2-3,Solo,Low,4–7 days,Warm,1,1,Sunbathing,1,Hills,Beaches
+12/12/2025 23:09:53,Harsh Vardhan Singh Guleria,20,Male,North India,4-7,Family,Medium,1–3 days,Warm,3,5,"Adventure Sports, Wildlife Exploration, Camping",5,City,Hills
+12/12/2025 23:10:05,Noor Hassan ,20,Male,Northeast India,4-7,Solo,Low,4–7 days,Cold,2,4,"Cultural Visits, Wildlife Exploration, Camping",3,City,Plains
+12/12/2025 23:10:52,Godwin,18,Male,South India,4-7,Friends,Medium,1–3 days,Cold,3,4,"Photography, Adventure Sports, Camping",3,Hills,Hills
+12/12/2025 23:11:10,Tharun,18,Male,South India,7+,Solo,Medium,4–7 days,Warm,5,5,"Photography, Cultural Visits, Camping",5,Hills,Hills
+12/12/2025 23:11:34,Abhi,21,Male,North India,2-3,Friends,Medium,4–7 days,Warm,4,5,"Photography, Cultural Visits, Wildlife Exploration",5,Hills,Hills
+12/12/2025 23:11:41,Vikram ,18,Male,South India,2-3,Solo,Medium,4–7 days,Warm,5,5,"Wildlife Exploration, Camping",4,Beaches,Hills
+12/12/2025 23:12:07,MOGALI CHAKRA VIGNA GANGADHAR ,18,Male,South India,2-3,Group,Medium,4–7 days,Cold,3,4,"Photography, Cultural Visits, Boating",3,Beaches,Hills
+12/12/2025 23:12:35,Sparsh srivastava,21,Male,North India,1,Family,Medium,4–7 days,Cold,3,4,"Cultural Visits, Wildlife Exploration, Camping",5,Hills,Hills
+12/12/2025 23:13:33,Sinchan Maity,19,Male,Northeast India,1,Friends,Medium,8–14 days,Cold,4,5,"Photography, Cultural Visits",4,Hills,Hills
+12/12/2025 23:13:36,SOORAJ.G,17,Male,South India,7+,Family,Low,15+ days,Cold,5,4,"Photography, Cultural Visits",3,Beaches,Hills
+12/12/2025 23:13:37,Abhay ,18,Male,Central india,4-7,Solo,Low,15+ days,Cold,4,5,Camping,5,City,Hills
+12/12/2025 23:14:24,Kunal jain,24,Male,North India,7+,Solo,Medium,1–3 days,Warm,4,4,"Cultural Visits, Camping, Boating",4,City,Hills
+12/12/2025 23:14:26,Abc,25,Male,North India,1,Friends,Medium,1–3 days,Warm,5,5,"Photography, Wildlife Exploration, Camping",5,Hills,Hills
+12/12/2025 23:14:26,Shweta,18,Female,North India,2-3,Family,Medium,4–7 days,Cold,4,5,"Cultural Visits, Camping, Boating",2,City,Hills
+12/12/2025 23:14:35,Gendu priyaa ,18,Other,Northeast India,0,Prefer not to say,Low,1–3 days,Warm,1,5,"Sunbathing, Cultural Visits",1,City,Plains
+12/12/2025 23:15:50,Apurv,22,Male,North India,1,Family,High,4–7 days,Cold,5,4,"Adventure Sports, Wildlife Exploration, Boating",3,Hills,Hills
+12/12/2025 23:17:04,Ankit,20,Male,North India,2-3,Friends,Medium,4–7 days,Cold,3,5,"Photography, Adventure Sports, Wildlife Exploration",5,Hills,Plains
+12/12/2025 23:17:22,Navaneeth ,19,Male,South India,7+,Friends,High,15+ days,Cold,5,5,"Photography, Cultural Visits",5,City,Hills
+12/12/2025 23:17:28,Tejas ,20,Male,North India,4-7,Solo,Medium,1–3 days,Warm,4,5,"Cultural Visits, Adventure Sports, Wildlife Exploration",4,City,Plains
+12/12/2025 23:17:35,Ashmit Gupta ,18,Male,North India,2-3,Solo,Medium,1–3 days,Cold,4,5,"Photography, Adventure Sports, Wildlife Exploration",5,Beaches,Hills
+12/12/2025 23:17:51,Nitish ,17,Male,Northeast India,0,Solo,Medium,4–7 days,Cold,2,2,"Sunbathing, Photography",3,Beaches,Hills
+12/12/2025 23:18:04,Pragati Pathak ,19,Female,North India,2-3,Family,Medium,4–7 days,Cold,3,2,Photography,2,Beaches,Hills
+12/12/2025 23:19:19,Kunwar Prakhar Singh ,21,Male,North India,4-7,Friends,Medium,4–7 days,Warm,2,2,"Sunbathing, Photography, Cultural Visits",4,Plains,Beaches
+12/12/2025 23:19:30,Arshit Rana ,19,Male,North India,2-3,Solo,Low,8–14 days,Cold,5,5,"Photography, Wildlife Exploration, Camping",5,Hills,Hills
+12/12/2025 23:19:47,Md Zeeshan Alam ,21,Male,North India,0,Friends,Low,4–7 days,Cold,4,5,Photography,5,City,Hills
+12/12/2025 23:20:49,Siddharth kumar,19,Male,North India,7+,Partner,Low,8–14 days,Warm,5,5,"Photography, Cultural Visits",5,Hills,Plains
+12/12/2025 23:21:13,Ansh Pratap Singh ,20,Male,North India,2-3,Friends,Medium,1–3 days,Warm,5,5,"Sunbathing, Photography, Wildlife Exploration",5,Plains,Plains
+12/12/2025 23:23:34,Muraharirao Rohith Harsha ,18,Male,South India,4-7,Friends,Low,4–7 days,Warm,4,5,"Cultural Visits, Adventure Sports, Wildlife Exploration",3,Beaches,Hills
+12/12/2025 23:23:38,Sasidhar ,18,Male,Northeast India,2-3,Friends,Medium,1–3 days,Cold,5,5,"Photography, Boating",5,Plains,Hills
+12/12/2025 23:23:42,Siva deeksha,17,Female,North India,4-7,Friends,Low,1–3 days,Warm,2,4,"Cultural Visits, Wildlife Exploration, Camping",3,City,Beaches
+12/12/2025 23:24:22,Sundara eswari,19,Female,South India,1,Friends,High,4–7 days,Cold,4,4,Wildlife Exploration,4,Hills,Beaches
+12/12/2025 23:24:26,Tanishq,22,Male,West India,2-3,Family,Medium,1–3 days,Cold,3,4,"Photography, Adventure Sports, Camping",4,Hills,Hills
+12/12/2025 23:25:58,Aayush kumar singh,19,Male,East,2-3,Friends,Low,1–3 days,Warm,1,5,"Photography, Cultural Visits",4,Hills,Hills
+12/12/2025 23:26:29,Ankur singh,19,Male,North India,7+,Partner,Medium,1–3 days,Cold,3,5,"Cultural Visits, Wildlife Exploration, Camping",5,Hills,Hills
+12/12/2025 23:26:39,Yash Kumar Singh ,17,Male,West India,0,Prefer not to say,Low,1–3 days,Cold,3,5,"Adventure Sports, Camping, Boating",3,Hills,Hills
+12/12/2025 23:27:03,Mahesh,20,Male,South India,7+,Solo,Medium,1–3 days,Warm,5,5,Photography,4,Hills,Hills
+12/12/2025 23:27:57,DHEERAJ,20,Male,South India,7+,Solo,High,15+ days,Warm,4,3,"Photography, Wildlife Exploration, Camping",2,Hills,Hills
+12/12/2025 23:28:37,shaikjahidram@gmail.com,18,Male,South India,4-7,Prefer not to say,Medium,1–3 days,Cold,3,3,"Adventure Sports, Wildlife Exploration, Boating",4,Beaches,Hills
+12/12/2025 23:28:39,Kartik Yadav ,21,Male,North India,2-3,Friends,Low,1–3 days,Cold,5,5,Wildlife Exploration,3,Hills,Hills
+12/13/2025 10:09:45,Arshia Singh ,20,Female,South India,1,Family,Medium,4–7 days,Cold,4,4,"Photography, Cultural Visits, Wildlife Exploration",2,Plains,Hills
+12/13/2025 11:30:51,Sakshi,21,Female,Northeast India,2-3,Family,Medium,4–7 days,Cold,5,5,"Photography, Adventure Sports, Wildlife Exploration",5,Hills,Hills
+12/13/2025 11:52:13,Rohit Kumar Ranjan ,19,Male,West India,1,Family,Medium,1–3 days,Warm,4,4,"Cultural Visits, Wildlife Exploration, Camping",4,City,Beaches
+12/13/2025 12:05:27,Rahul,22,Male,North India,0,Solo,Low,1–3 days,Warm,4,5,"Wildlife Exploration, Camping",4,Hills,Beaches
+12/13/2025 12:08:59,Ankit Kumar ,21,Male,North India,2-3,Friends,Medium,4–7 days,Cold,5,5,"Photography, Camping",5,Hills,Plains
+12/13/2025 12:11:38,Sanket mishra,21,Male,North India,2-3,Friends,Medium,15+ days,Warm,5,5,"Photography, Cultural Visits, Adventure Sports",5,Hills,Hills
+12/13/2025 12:12:00,Aditya ,20,Male,North India,1,Solo,Low,1–3 days,Warm,4,4,"Photography, Cultural Visits, Wildlife Exploration",5,City,Hills
+12/13/2025 12:12:41,Aman sahu,22,Male,North India,1,Solo,Low,4–7 days,Cold,5,5,"Sunbathing, Cultural Visits, Boating",4,Beaches,Beaches
+12/13/2025 12:22:41,Sharal,23,Male,West India,2-3,Friends,Medium,1–3 days,Cold,5,5,"Photography, Cultural Visits, Wildlife Exploration",4,City,Hills
+12/13/2025 12:27:00,Sharmina,20,Female,South India,4-7,Friends,Medium,4–7 days,Cold,3,5,"Photography, Cultural Visits, Wildlife Exploration",5,Hills,Hills
+12/13/2025 12:32:17,Sunny Kumar ,20,Male,North India,2-3,Friends,Medium,1–3 days,Warm,4,5,"Photography, Cultural Visits, Adventure Sports",4,Hills,Beaches
+12/13/2025 12:57:06,Nethrananda Reddy ,19,Male,South India,4-7,Family,Low,4–7 days,Cold,3,3,"Wildlife Exploration, Camping, Boating",3,Plains,Hills
+12/13/2025 13:02:31,Aryan Singh ,20,Male,North India,2-3,Family,Medium,1–3 days,Warm,4,5,"Photography, Cultural Visits, Adventure Sports",5,Hills,Hills
+12/13/2025 13:04:00,Liteesh ,20,Male,South India,2-3,Friends,Medium,1–3 days,Warm,4,4,"Photography, Cultural Visits, Camping",5,Plains,Hills
+12/13/2025 13:11:47,Himanshu kholiya ,21,Male,North India,0,Friends,Medium,1–3 days,Cold,3,5,Photography,4,Hills,Hills
+12/13/2025 13:17:54,Udit katiyar ,22,Male,North India,7+,Solo,Medium,1–3 days,Cold,5,4,"Photography, Adventure Sports, Camping",4,City,Hills
+12/13/2025 14:03:57,Pragati,29,Female,North India,1,Family,Low,1–3 days,Warm,4,3,"Photography, Cultural Visits",4,Plains,Plains
+12/13/2025 14:05:37,Ram Babu,38,Male,North India,2-3,Friends,Low,1–3 days,Warm,5,3,"Cultural Visits, Camping, Boating",4,City,Beaches
+12/13/2025 14:06:44,Brijesh,35,Male,North India,1,Solo,Low,1–3 days,Warm,5,2,Cultural Visits,3,City,Beaches
+12/13/2025 14:09:18,Shashikala,58,Female,North India,0,Family,Low,1–3 days,Warm,5,1,Cultural Visits,1,Plains,Plains
+12/13/2025 14:25:45,Shambhavi Singh,26,Female,North India,4-7,Friends,High,4–7 days,Warm,5,4,"Sunbathing, Photography, Camping",5,Beaches,Beaches
+12/13/2025 14:26:45,Nitishaa ,24,Female,West India,7+,Solo,High,15+ days,Warm,5,3,"Sunbathing, Photography, Adventure Sports",5,Beaches,Beaches
+12/13/2025 15:02:38,Gayatri,21,Female,West India,4-7,Friends,Medium,4–7 days,Warm,5,3,"Cultural Visits, Wildlife Exploration, Boating",3,Beaches,Beaches
+12/13/2025 15:04:09,Shravani ,20,Female,South India,4-7,Friends,Medium,4–7 days,Warm,5,5,"Sunbathing, Adventure Sports, Boating",4,City,Beaches
+12/14/2025 11:36:18,Anjali,20,Female,North India,2-3,Solo,Medium,1–3 days,Cold,4,4,"Sunbathing, Cultural Visits, Camping",4,Plains,Hills

@@ -1,0 +1,174 @@
+age,gender,region,travel_frequency,travel_companion,budget,trip_duration,weather_preference,likes_water,likes_altitude,activities,adventure_level,last_visited,target
+0.11627906976744184,1,3,2,0,1,1,0,0.5,0.5,"Sunbathing, Photography, Cultural Visits",0.75,3,0
+0.11627906976744184,1,3,3,5,1,1,0,1.0,1.0,"Photography, Cultural Visits, Adventure Sports, Wildlife Exploration, Camping, Boating",1.0,2,0
+0.1395348837209302,0,3,1,0,1,1,0,0.5,0.75,"Photography, Cultural Visits, Wildlife Exploration, Camping, Boating",1.0,2,0
+0.16279069767441862,0,3,2,1,0,0,0,0.5,0.5,"Sunbathing, Cultural Visits, Adventure Sports, Camping, Boating",0.5,2,0
+0.0,1,3,1,0,1,1,1,0.75,0.5,"Cultural Visits, Adventure Sports, Wildlife Exploration, Camping, Boating",0.5,2,0
+0.1395348837209302,0,3,2,0,1,1,0,0.75,0.75,"Photography, Cultural Visits, Adventure Sports, Wildlife Exploration, Camping",1.0,2,0
+0.1395348837209302,0,4,2,0,1,1,0,0.75,0.5,"Sunbathing, Photography, Adventure Sports, Wildlife Exploration, Camping",0.75,0,2
+0.16279069767441862,1,3,2,0,2,1,0,0.75,1.0,Photography,0.5,2,0
+0.11627906976744184,1,5,1,1,1,0,0,0.75,0.75,Wildlife Exploration,0.75,1,2
+0.11627906976744184,1,3,1,1,0,0,1,0.5,0.5,"Sunbathing, Photography, Cultural Visits, Adventure Sports, Wildlife Exploration, Camping, Boating",0.5,2,0
+0.11627906976744184,1,3,2,5,0,1,1,1.0,1.0,"Sunbathing, Photography, Cultural Visits, Adventure Sports, Wildlife Exploration, Camping, Boating",1.0,2,0
+0.11627906976744184,1,4,2,0,1,1,0,1.0,0.75,"Cultural Visits, Wildlife Exploration, Boating",1.0,2,0
+0.11627906976744184,1,5,2,0,1,0,0,1.0,1.0,"Photography, Adventure Sports",1.0,0,2
+0.11627906976744184,0,3,2,0,1,1,0,0.5,1.0,"Photography, Cultural Visits, Wildlife Exploration, Camping, Boating",0.5,3,0
+0.11627906976744184,0,3,2,0,1,1,0,1.0,1.0,"Photography, Cultural Visits",1.0,2,0
+0.09302325581395349,0,3,2,1,1,1,1,0.5,0.5,"Adventure Sports, Wildlife Exploration",0.75,3,0
+0.09302325581395349,1,5,2,5,1,1,1,0.75,0.5,Cultural Visits,0.5,2,2
+0.1395348837209302,0,6,1,2,2,2,0,1.0,1.0,"Camping, Boating",1.0,1,1
+0.20930232558139533,1,6,4,1,0,1,0,1.0,0.75,"Photography, Cultural Visits, Adventure Sports, Wildlife Exploration",1.0,0,0
+0.16279069767441862,1,3,2,0,1,0,1,0.75,0.75,"Photography, Cultural Visits",0.5,3,1
+0.18604651162790692,1,5,1,3,1,1,1,0.75,0.75,Wildlife Exploration,0.75,0,2
+0.11627906976744184,1,6,3,3,2,2,0,1.0,1.0,"Photography, Adventure Sports, Wildlife Exploration",0.75,2,0
+0.1395348837209302,1,3,2,1,0,0,0,0.75,0.75,"Photography, Cultural Visits, Wildlife Exploration, Camping, Boating",1.0,2,0
+0.09302325581395349,1,5,2,3,2,2,0,0.5,0.5,Camping,0.75,1,0
+0.11627906976744184,1,3,2,1,2,3,0,0.5,0.5,Adventure Sports,0.5,0,0
+0.1395348837209302,1,3,2,5,0,0,1,0.5,0.5,"Cultural Visits, Wildlife Exploration",0.25,1,1
+0.11627906976744184,1,3,2,5,1,1,0,1.0,1.0,"Photography, Adventure Sports, Wildlife Exploration, Camping, Boating",1.0,2,0
+0.16279069767441862,1,4,1,1,2,1,0,0.75,0.75,"Sunbathing, Photography, Cultural Visits, Adventure Sports",0.75,2,0
+0.046511627906976716,0,5,2,0,1,1,0,0.25,0.0,Photography,0.5,0,0
+0.11627906976744184,0,3,2,0,1,0,0,0.75,1.0,"Photography, Wildlife Exploration, Camping, Boating",0.75,2,0
+0.09302325581395349,1,5,1,1,0,0,0,0.5,0.75,"Photography, Cultural Visits",0.75,1,0
+0.11627906976744184,1,3,4,5,1,3,1,0.75,0.5,"Cultural Visits, Adventure Sports, Boating",1.0,1,0
+0.06976744186046507,0,3,2,0,1,1,0,0.5,0.25,"Photography, Camping",0.25,2,0
+0.09302325581395349,0,3,2,0,1,0,0,1.0,1.0,"Sunbathing, Photography, Adventure Sports",0.25,1,2
+0.16279069767441862,1,3,1,5,0,0,1,0.25,0.5,Photography,0.25,1,0
+0.1395348837209302,1,3,2,1,1,1,1,0.5,0.75,Photography,0.75,1,0
+0.1395348837209302,1,5,2,1,1,1,1,1.0,0.5,Photography,0.75,1,2
+0.1395348837209302,1,3,3,1,1,1,1,0.75,0.75,Adventure Sports,0.75,2,0
+0.09302325581395349,1,4,2,5,0,0,1,1.0,0.0,"Cultural Visits, Adventure Sports, Boating",0.0,1,1
+0.06976744186046507,1,5,2,0,2,2,0,1.0,1.0,"Photography, Wildlife Exploration, Boating",1.0,1,0
+0.06976744186046507,1,5,2,2,0,1,0,0.5,0.75,"Photography, Cultural Visits",0.5,2,1
+0.11627906976744184,0,3,1,1,0,0,0,0.5,0.5,Sunbathing,0.5,0,0
+0.06976744186046507,0,3,0,5,0,0,0,0.5,0.5,Camping,0.5,1,0
+0.11627906976744184,0,5,3,1,1,0,1,1.0,0.75,"Cultural Visits, Wildlife Exploration",0.75,2,0
+0.06976744186046507,0,4,2,0,1,2,1,0.5,0.75,Cultural Visits,0.75,1,0
+0.06976744186046507,1,3,2,0,0,0,0,0.75,1.0,Photography,1.0,2,0
+0.06976744186046507,0,3,2,0,1,2,1,0.75,0.75,"Sunbathing, Photography, Cultural Visits, Adventure Sports, Wildlife Exploration, Camping, Boating",1.0,3,0
+0.11627906976744184,0,3,1,0,1,3,1,1.0,1.0,Photography,1.0,0,2
+0.06976744186046507,1,5,3,5,1,2,0,1.0,1.0,"Adventure Sports, Camping",1.0,2,0
+0.046511627906976716,1,5,1,5,2,2,0,1.0,0.5,"Sunbathing, Photography, Cultural Visits, Adventure Sports, Wildlife Exploration, Camping, Boating",0.5,2,2
+0.06976744186046507,0,5,3,2,2,1,0,0.75,1.0,Cultural Visits,1.0,2,0
+0.06976744186046507,1,5,4,4,1,0,0,1.0,1.0,"Photography, Cultural Visits, Adventure Sports, Wildlife Exploration, Camping, Boating",1.0,2,2
+0.1395348837209302,1,6,2,0,0,0,0,1.0,1.0,Cultural Visits,1.0,1,1
+0.16279069767441862,1,3,1,5,1,1,0,0.75,0.75,"Cultural Visits, Adventure Sports, Camping, Boating",0.75,2,0
+0.1395348837209302,1,5,1,5,1,0,0,1.0,1.0,"Photography, Wildlife Exploration, Camping",1.0,2,2
+0.20930232558139533,1,5,2,5,1,2,0,1.0,1.0,"Photography, Cultural Visits, Camping",0.75,2,0
+0.06976744186046507,1,5,3,4,1,3,1,0.75,1.0,Wildlife Exploration,1.0,2,0
+0.046511627906976716,0,5,3,4,1,3,1,0.75,1.0,"Photography, Cultural Visits, Wildlife Exploration, Camping",1.0,2,0
+0.06976744186046507,1,5,2,0,1,0,1,1.0,1.0,Cultural Visits,1.0,2,0
+0.06976744186046507,0,5,4,0,1,1,0,1.0,1.0,Cultural Visits,1.0,1,1
+0.09302325581395349,0,3,2,5,1,1,0,0.5,0.75,Cultural Visits,0.75,1,0
+0.09302325581395349,0,3,3,5,1,0,0,0.25,1.0,"Sunbathing, Photography, Cultural Visits, Adventure Sports, Wildlife Exploration, Camping, Boating",0.75,2,0
+0.06976744186046507,1,5,2,1,1,0,1,0.5,0.75,"Photography, Wildlife Exploration",1.0,1,1
+0.11627906976744184,1,3,2,0,1,0,0,0.0,1.0,Cultural Visits,1.0,2,0
+0.09302325581395349,0,3,2,0,1,1,1,0.5,0.75,Photography,0.75,0,0
+0.06976744186046507,1,6,2,3,1,0,1,1.0,0.75,"Cultural Visits, Boating",1.0,2,1
+0.09302325581395349,1,5,2,0,1,1,0,0.75,1.0,Photography,1.0,1,0
+0.18604651162790692,1,3,2,1,1,1,0,0.75,0.25,"Sunbathing, Photography, Adventure Sports, Camping, Boating",0.5,3,0
+0.46511627906976744,1,2,4,4,2,3,0,1.0,0.75,Photography,0.5,2,1
+0.1395348837209302,1,3,2,1,1,1,0,0.5,0.75,"Photography, Cultural Visits, Wildlife Exploration",0.75,2,0
+0.06976744186046507,1,5,1,1,1,1,1,1.0,1.0,"Sunbathing, Photography, Cultural Visits, Adventure Sports, Wildlife Exploration, Camping, Boating",1.0,2,2
+0.16279069767441862,0,3,3,0,1,1,1,0.25,1.0,"Sunbathing, Photography, Cultural Visits, Adventure Sports, Camping",1.0,2,0
+0.06976744186046507,1,3,2,5,2,1,0,0.75,1.0,Camping,1.0,1,0
+0.1395348837209302,0,3,2,4,1,1,0,1.0,1.0,"Sunbathing, Photography, Cultural Visits, Adventure Sports, Wildlife Exploration, Camping, Boating",1.0,2,0
+0.046511627906976716,0,5,3,1,0,1,0,1.0,1.0,"Sunbathing, Photography, Adventure Sports, Wildlife Exploration, Camping, Boating",1.0,2,2
+0.09302325581395349,1,3,2,1,1,1,0,0.5,0.5,"Sunbathing, Photography, Cultural Visits, Adventure Sports, Wildlife Exploration, Camping, Boating",0.75,2,0
+0.11627906976744184,0,3,3,5,2,2,1,0.75,1.0,"Photography, Camping",0.75,2,0
+0.06976744186046507,0,3,0,4,0,0,1,0.0,0.0,Photography,0.0,1,0
+0.09302325581395349,1,5,2,3,1,0,0,0.75,1.0,"Photography, Cultural Visits, Adventure Sports, Wildlife Exploration, Camping",1.0,2,0
+0.09302325581395349,1,5,3,5,1,1,0,1.0,1.0,"Sunbathing, Photography, Cultural Visits, Adventure Sports, Wildlife Exploration, Camping, Boating",1.0,2,0
+0.23255813953488375,1,6,0,4,2,0,0,0.0,1.0,Camping,1.0,0,0
+0.1395348837209302,0,4,1,3,1,1,1,1.0,1.0,Photography,0.75,2,2
+0.1395348837209302,0,3,1,0,0,0,1,0.0,0.5,"Sunbathing, Photography, Cultural Visits, Adventure Sports, Wildlife Exploration, Camping",1.0,3,1
+0.1395348837209302,1,3,2,5,0,0,0,1.0,0.75,"Sunbathing, Photography, Cultural Visits, Adventure Sports, Wildlife Exploration, Camping, Boating",1.0,3,2
+0.11627906976744184,0,3,2,1,1,1,1,1.0,1.0,"Sunbathing, Photography, Cultural Visits, Adventure Sports, Wildlife Exploration, Camping, Boating",1.0,2,0
+0.11627906976744184,0,3,1,4,0,0,0,0.75,1.0,"Photography, Cultural Visits",0.75,0,0
+0.1395348837209302,1,3,2,5,0,0,1,0.25,0.25,Sunbathing,0.25,2,2
+0.23255813953488375,1,3,4,5,2,3,0,1.0,1.0,"Photography, Cultural Visits, Adventure Sports",1.0,0,2
+0.09302325581395349,0,3,1,1,1,0,0,0.25,1.0,"Photography, Cultural Visits, Camping",0.75,0,0
+0.11627906976744184,1,3,0,4,1,1,1,1.0,1.0,"Photography, Adventure Sports, Wildlife Exploration",1.0,1,2
+0.1395348837209302,1,3,2,5,1,0,0,0.5,1.0,"Photography, Wildlife Exploration, Camping",1.0,2,0
+0.16279069767441862,1,3,4,5,1,0,0,0.5,1.0,"Photography, Wildlife Exploration, Camping",1.0,2,0
+0.11627906976744184,0,3,3,0,1,1,0,0.75,0.75,Wildlife Exploration,0.75,2,0
+0.09302325581395349,1,3,4,1,2,3,0,1.0,1.0,"Adventure Sports, Wildlife Exploration, Camping",1.0,2,2
+0.09302325581395349,0,3,1,0,1,1,0,0.75,1.0,"Photography, Adventure Sports, Camping",0.75,2,0
+0.06976744186046507,1,4,0,5,0,0,1,0.0,0.0,"Photography, Cultural Visits, Adventure Sports",0.75,1,1
+0.06976744186046507,1,3,1,1,1,0,0,0.5,1.0,"Photography, Wildlife Exploration, Boating",0.75,0,0
+0.11627906976744184,1,3,1,1,2,2,0,1.0,0.75,Wildlife Exploration,0.75,2,0
+0.09302325581395349,0,3,2,0,1,0,1,0.75,1.0,"Photography, Cultural Visits, Adventure Sports",1.0,1,0
+0.09302325581395349,0,3,1,1,0,0,0,1.0,1.0,"Adventure Sports, Wildlife Exploration, Camping",0.75,1,0
+0.09302325581395349,0,6,2,5,1,0,0,1.0,1.0,Camping,1.0,1,0
+0.06976744186046507,1,5,3,0,0,3,1,1.0,0.25,"Adventure Sports, Camping, Boating",0.0,2,0
+0.11627906976744184,0,3,1,0,2,1,0,0.25,0.75,"Adventure Sports, Camping, Boating",1.0,2,0
+0.09302325581395349,1,5,2,1,2,1,0,1.0,1.0,"Sunbathing, Adventure Sports, Wildlife Exploration",1.0,1,1
+0.06976744186046507,0,5,1,1,0,1,1,0.75,0.75,"Cultural Visits, Adventure Sports, Camping",1.0,3,2
+0.06976744186046507,0,6,2,1,1,2,1,0.5,0.75,Cultural Visits,0.5,3,0
+0.046511627906976716,1,3,0,1,0,0,0,0.0,0.75,"Adventure Sports, Wildlife Exploration, Camping",1.0,2,0
+0.06976744186046507,1,4,1,3,1,1,1,0.5,0.0,Adventure Sports,0.5,0,0
+0.06976744186046507,1,5,2,5,0,1,1,0.0,0.0,Sunbathing,0.0,2,2
+0.11627906976744184,1,3,3,0,1,0,1,0.5,1.0,"Adventure Sports, Wildlife Exploration, Camping",1.0,1,0
+0.11627906976744184,1,4,3,5,0,1,0,0.25,0.75,"Cultural Visits, Wildlife Exploration, Camping",0.5,1,1
+0.06976744186046507,1,5,3,1,1,0,0,0.5,0.75,"Photography, Adventure Sports, Camping",0.5,2,0
+0.06976744186046507,1,5,4,5,1,1,1,1.0,1.0,"Photography, Cultural Visits, Camping",1.0,2,0
+0.1395348837209302,1,3,2,1,1,1,1,0.75,1.0,"Photography, Cultural Visits, Wildlife Exploration",1.0,2,0
+0.06976744186046507,1,5,2,5,1,1,1,1.0,1.0,"Wildlife Exploration, Camping",0.75,0,0
+0.06976744186046507,1,5,2,2,1,1,0,0.5,0.75,"Photography, Cultural Visits, Boating",0.5,0,0
+0.1395348837209302,1,3,1,0,1,1,0,0.5,0.75,"Cultural Visits, Wildlife Exploration, Camping",1.0,2,0
+0.09302325581395349,1,4,1,1,1,2,0,0.75,1.0,"Photography, Cultural Visits",0.75,2,0
+0.046511627906976716,1,5,4,0,0,3,0,1.0,0.75,"Photography, Cultural Visits",0.5,0,0
+0.06976744186046507,1,0,3,5,0,3,0,0.75,1.0,Camping,1.0,1,0
+0.20930232558139533,1,3,4,5,1,0,1,0.75,0.75,"Cultural Visits, Camping, Boating",0.75,1,0
+0.23255813953488375,1,3,1,1,1,0,1,1.0,1.0,"Photography, Wildlife Exploration, Camping",1.0,2,0
+0.06976744186046507,0,3,2,0,1,1,0,0.75,1.0,"Cultural Visits, Camping, Boating",0.25,1,0
+0.06976744186046507,2,4,0,4,0,0,1,0.0,1.0,"Sunbathing, Cultural Visits",0.0,1,1
+0.16279069767441862,1,3,1,0,2,1,0,1.0,0.75,"Adventure Sports, Wildlife Exploration, Boating",0.5,2,0
+0.11627906976744184,1,3,2,1,1,1,0,0.5,1.0,"Photography, Adventure Sports, Wildlife Exploration",1.0,2,1
+0.09302325581395349,1,5,4,1,2,3,0,1.0,1.0,"Photography, Cultural Visits",1.0,1,0
+0.11627906976744184,1,3,3,5,1,0,1,0.75,1.0,"Cultural Visits, Adventure Sports, Wildlife Exploration",0.75,1,1
+0.06976744186046507,1,3,2,5,1,0,0,0.75,1.0,"Photography, Adventure Sports, Wildlife Exploration",1.0,0,0
+0.046511627906976716,1,4,0,5,1,1,0,0.25,0.25,"Sunbathing, Photography",0.5,0,0
+0.09302325581395349,0,3,2,0,1,1,0,0.5,0.25,Photography,0.25,0,0
+0.1395348837209302,1,3,3,1,1,1,1,0.25,0.25,"Sunbathing, Photography, Cultural Visits",0.75,3,2
+0.09302325581395349,1,3,2,5,0,2,0,1.0,1.0,"Photography, Wildlife Exploration, Camping",1.0,2,0
+0.1395348837209302,1,3,0,1,0,1,0,0.75,1.0,Photography,1.0,1,0
+0.09302325581395349,1,3,4,3,0,2,1,1.0,1.0,"Photography, Cultural Visits",1.0,2,1
+0.11627906976744184,1,3,2,1,1,0,1,1.0,1.0,"Sunbathing, Photography, Wildlife Exploration",1.0,3,1
+0.06976744186046507,1,5,3,1,0,1,1,0.75,1.0,"Cultural Visits, Adventure Sports, Wildlife Exploration",0.5,0,0
+0.06976744186046507,1,4,2,1,1,0,0,1.0,1.0,"Photography, Boating",1.0,3,0
+0.046511627906976716,0,3,3,1,0,0,1,0.25,0.75,"Cultural Visits, Wildlife Exploration, Camping",0.5,1,2
+0.09302325581395349,0,5,1,1,2,1,0,0.75,0.75,Wildlife Exploration,0.75,2,2
+0.16279069767441862,1,6,2,0,1,0,0,0.5,0.75,"Photography, Adventure Sports, Camping",0.75,2,0
+0.09302325581395349,1,1,2,1,0,0,1,0.0,1.0,"Photography, Cultural Visits",0.75,2,0
+0.09302325581395349,1,3,4,3,1,0,0,0.5,1.0,"Cultural Visits, Wildlife Exploration, Camping",1.0,2,0
+0.046511627906976716,1,6,0,4,0,0,0,0.5,1.0,"Adventure Sports, Camping, Boating",0.5,2,0
+0.11627906976744184,1,5,4,5,1,0,1,1.0,1.0,Photography,0.75,2,0
+0.11627906976744184,1,5,4,5,2,3,1,0.75,0.5,"Photography, Wildlife Exploration, Camping",0.25,2,0
+0.06976744186046507,1,5,3,4,1,0,0,0.5,0.5,"Adventure Sports, Wildlife Exploration, Boating",0.75,0,0
+0.1395348837209302,1,3,2,1,0,0,0,1.0,1.0,Wildlife Exploration,0.5,2,0
+0.11627906976744184,0,5,1,0,1,1,0,0.75,0.75,"Photography, Cultural Visits, Wildlife Exploration",0.25,3,0
+0.1395348837209302,0,4,2,0,1,1,0,1.0,1.0,"Photography, Adventure Sports, Wildlife Exploration",1.0,2,0
+0.09302325581395349,1,6,1,0,1,0,1,0.75,0.75,"Cultural Visits, Wildlife Exploration, Camping",0.75,1,2
+0.16279069767441862,1,3,0,5,0,0,1,0.75,1.0,"Wildlife Exploration, Camping",0.75,2,2
+0.1395348837209302,1,3,2,1,1,1,0,1.0,1.0,"Photography, Camping",1.0,2,1
+0.1395348837209302,1,3,2,1,1,3,1,1.0,1.0,"Photography, Cultural Visits, Adventure Sports",1.0,2,0
+0.11627906976744184,1,3,1,5,0,0,1,0.75,0.75,"Photography, Cultural Visits, Wildlife Exploration",1.0,1,0
+0.16279069767441862,1,3,1,5,0,1,0,1.0,1.0,"Sunbathing, Cultural Visits, Boating",0.75,0,2
+0.18604651162790692,1,6,2,1,1,0,0,1.0,1.0,"Photography, Cultural Visits, Wildlife Exploration",0.75,1,0
+0.11627906976744184,0,5,3,1,1,1,0,0.5,1.0,"Photography, Cultural Visits, Wildlife Exploration",1.0,2,0
+0.11627906976744184,1,3,2,1,1,0,1,0.75,1.0,"Photography, Cultural Visits, Adventure Sports",0.75,2,2
+0.09302325581395349,1,5,3,0,0,1,0,0.5,0.5,"Wildlife Exploration, Camping, Boating",0.5,3,0
+0.11627906976744184,1,3,2,0,1,0,1,0.75,1.0,"Photography, Cultural Visits, Adventure Sports",1.0,2,0
+0.11627906976744184,1,5,2,1,1,0,1,0.75,0.75,"Photography, Cultural Visits, Camping",1.0,3,0
+0.1395348837209302,1,3,0,1,1,0,0,0.5,1.0,Photography,0.75,2,0
+0.16279069767441862,1,3,4,5,1,0,0,1.0,0.75,"Photography, Adventure Sports, Camping",0.75,1,0
+0.3255813953488372,0,3,1,0,0,0,1,0.75,0.5,"Photography, Cultural Visits",0.75,3,1
+0.5348837209302326,1,3,2,1,0,0,1,1.0,0.5,"Cultural Visits, Camping, Boating",0.75,1,2
+0.46511627906976744,1,3,1,5,0,0,1,1.0,0.25,Cultural Visits,0.5,1,2
+1.0,0,3,0,0,0,0,1,1.0,0.0,Cultural Visits,0.0,3,1
+0.25581395348837205,0,3,3,1,2,1,1,1.0,0.75,"Sunbathing, Photography, Camping",1.0,0,2
+0.20930232558139533,0,6,4,5,2,3,1,1.0,0.5,"Sunbathing, Photography, Adventure Sports",1.0,0,2
+0.1395348837209302,0,6,3,1,1,1,1,1.0,0.5,"Cultural Visits, Wildlife Exploration, Boating",0.5,0,2
+0.11627906976744184,0,5,3,1,1,1,1,1.0,1.0,"Sunbathing, Adventure Sports, Boating",0.75,1,2
+0.11627906976744184,0,3,2,5,1,0,0,0.75,0.75,"Sunbathing, Cultural Visits, Camping",0.75,3,0
